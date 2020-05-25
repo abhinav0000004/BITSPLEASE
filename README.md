@@ -8,8 +8,8 @@ The following project was solution to one of the problem statements in Kickstart
 
 Identification of Myocardium from MRI Short Axis (SAX) Cine Image 
 
-![Heart MRI](https://github.com/abhinav0000004/BitsPlease/blob/master/test_images/a.PNG)           ![Segmented Myocardium](https://github.com/abhinav0000004/BitsPlease/blob/master/test_images/b.PNG) 
-<pre>          Heart MRI                               Segmented Myocardium</pre>
+![Heart MRI](https://github.com/abhinav0000004/BITSPLEASE/blob/master/test_images/a.png)           ![Segmented Myocardium](https://github.com/abhinav0000004/BITSPLEASE/blob/master/test_images/b.png) 
+<pre>          Heart MRI                               Segmented Myocardium Image</pre>
 <pre>
 
 </pre>
